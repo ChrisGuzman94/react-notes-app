@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
 import { nanoid } from "nanoid";
-import "./App.css";
 import SearchBar from "./components/SearchBar";
 import NoteList from "./components/NoteList";
 import Header from "./components/Header";
